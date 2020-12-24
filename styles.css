@@ -1,0 +1,26 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+  }
+#title{
+    text-align: center;
+    padding-top:1rem;
+    padding-bottom: 0rem;
+    background-color: #d6d6c2;
+  }
+.img-div{
+  text-align:center;
+}
+main{
+  inline-size: auto;
+  max-width:1200px;
+  margin:auto;
+  padding: 0rem 1 rem;
+  text-align: center;
+  background-color: #d6d6c2;
+}
+li{
+  text-align: left;
+}
+.link{
+  color:blue;
+}
